@@ -113,4 +113,4 @@ The repository includes test images in the `Testing Images/` directory that can 
 
 ## License
 
-[Your License Information Here]
+This project is licensed under the MIT License - see the LICENSE file for details.
