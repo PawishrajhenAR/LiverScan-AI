@@ -101,7 +101,7 @@ The project uses a pre-trained CapsNet (Capsule Neural Network) model stored in 
 - Takes input images of size 128x128
 - Processes them through capsule layers
 - Outputs binary segmentation masks
-- Uses dynamic routing between capsules for better feature representation
+- Uses dynamic routing between capsules for better feature representation.
 
 ## Development Mode
 
